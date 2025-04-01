@@ -1,0 +1,10 @@
+git config --global http.proxy http://adolphoberezin@17.1.0.1:3128
+git clone Link_do_Repositorio
+cd Repositorio
+
+--------------------------------------------------------------------------
+Após realizar as alterações
+
+git add .
+git commit -m "mensagem"
+git push
